@@ -1,1 +1,1 @@
-# facesofai.github.io
+# Faces of AI
